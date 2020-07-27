@@ -35,7 +35,12 @@ class Tab extends React.Component {
 
       return (
       <div>
-        <h1>Congratulations {userName}!</h1> <h3>This is the tab you made :-)</h3>
+        <h1>ITS OVER {userName}</h1> <h3>TIME TO PLAY TETRIS :-)</h3>
+        <div>Tetris</div>
+        <div>Drawful</div>
+        <div>Uno</div>
+        <div></div>
+        <iframe src="https://b0d42084287c.ngrok.io/tab" width="540" height="450"></iframe>
       </div>
       );
   }
