@@ -47,3 +47,7 @@ In the project directory, execute:
   - npm start
   - upload app to Microsoft teams using the above instructions (find Development.zip and load it to teams and then enter the group you want the app added to)
   - Now you can play games with your teams directly through microsoft teams! :D
+
+
+
+LINK TO OTHER SREVER REPO: https://github.com/CheerfulSatchel/microcade-server
