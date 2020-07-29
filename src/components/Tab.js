@@ -40,7 +40,11 @@ class Tab extends React.Component {
         ? this.state.context["groupId"]
         : "";
 
-    let srcUrl = "https://7b37af001cff.ngrok.io/home?userId=" + userName + '&groupId=' + groupId;
+    let srcUrl =
+      "https://microcade.azurewebsites.net/home?userId=" +
+      userName +
+      "&groupId=" +
+      groupId;
     return (
       <div>
         <iframe src={srcUrl} width="100%" height="1080px"></iframe>
