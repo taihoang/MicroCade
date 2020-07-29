@@ -50,4 +50,4 @@ In the project directory, execute:
 
 
 
-LINK TO OTHER SREVER REPO: https://github.com/CheerfulSatchel/microcade-server
+LINK TO SERVER REPO: https://github.com/CheerfulSatchel/microcade-server
