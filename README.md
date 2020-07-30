@@ -39,7 +39,7 @@ In the project directory, execute:
 
   - npm install
   - download ngrok
-  - run 'ngrok http 3002' (any port but 3000)
+  - run 'ngrok http 3002'
   - get the https url that ngrok created ie: https://bc004099cdbd.ngrok.io
   - Go to development.env and replace the https://localhost:3000 with ngrok url
   - Go to TabConfig.js and replace https://localhost:3000/tab with ngrok url /tab
